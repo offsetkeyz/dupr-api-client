@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+include requirements.txt
+include requirements-dev.txt
+recursive-include dupr_api *.py
+recursive-exclude tests *
+recursive-exclude examples *
+recursive-exclude docs *
