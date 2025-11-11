@@ -23,7 +23,7 @@ pip install dupr-api-client
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/dupr-api-client.git
+git clone https://github.com/offsetkeyz/dupr-api-client.git
 cd dupr-api-client
 pip install -e .
 ```
@@ -277,7 +277,7 @@ client.set_bearer_token("new_token")
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dupr-api-client.git
+git clone https://github.com/offsetkeyz/dupr-api-client.git
 cd dupr-api-client
 
 # Create virtual environment
@@ -349,7 +349,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/yourusername/dupr-api-client/issues)
+- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/offsetkeyz/dupr-api-client/issues)
 - **Documentation**: [Full documentation](https://dupr-api-client.readthedocs.io/)
 - **DUPR API**: [Official DUPR API Documentation](https://backend.mydupr.com/swagger-ui/index.html)
 
@@ -360,7 +360,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Changelog
 
-### Version 0.1.0 (2024)
+### Version 0.1.0 (2025)
 - Initial release
 - Complete API coverage for all major endpoints
 - Comprehensive test suite

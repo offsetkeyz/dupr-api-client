@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dupr-api-client"
-version = "0.1.0"
+version = "0.1.1"
 description = "A comprehensive Python client library for the DUPR (Dynamic Universal Pickleball Rating) API"
 readme = "README.md"
 authors = [
