@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="dupr-api-client",
-    version="0.1.1",
+    version="1.0.0",
     author="offsetkeyz",
     author_email="pypi@thedailydecrypt.com",
     description="A comprehensive Python client library for the DUPR API",
