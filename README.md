@@ -360,8 +360,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Changelog
 
-### Version 0.1.0 (2025)
-- Initial release
+### Version 1.0.1 (2025-11-12)
+- Production release to PyPI
+- Same features as 1.0.0
+
+### Version 1.0.0 (2025-11-12)
+- First stable production release
 - Complete API coverage for all major endpoints
 - Comprehensive test suite
 - Full documentation
+- Type hints throughout
+- Error handling with specific exception types
